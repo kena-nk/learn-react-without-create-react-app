@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/kena-nk/learn-react-without-create-react-app/issues"
   },
-  "homepage": "https://github.com/kena-nk/learn-react-without-create-react-app#readme"
+  "homepage": "https://github.com/kena-nk/learn-react-without-create-react-app#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.20.7",
+    "@babel/core": "^7.20.7",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "babel-loader": "^9.1.0"
+  }
 }
